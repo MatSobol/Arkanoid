@@ -1,3 +1,5 @@
+# Arkanoid
+
 A simple Arcade game. It is in java and uses java swing.
 
 In order to win you need to destroy all blocks. When the ball hits a blue block a new ball appears.
