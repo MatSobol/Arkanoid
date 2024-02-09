@@ -2,12 +2,6 @@
 
 A simple Arcade game. It is in java and uses java swing.
 
-In order to win you need to destroy all blocks. When the ball hits a blue block a new ball appears.
-
-When the ball hits the edge of paddle it changes angles.
-
-When the ball hits the bottom the game is over.
-
 Here is an example of how it works:
 
 ![obraz](https://github.com/MatSobol/Arkanoid/assets/139177376/95905120-6388-467f-acd1-d8bd9a6f5df1)
